@@ -1,4 +1,6 @@
-# gerador-da-sorte (gerador-da-sorte)
+### Readme bonitinho em breve...
+
+# Megasorte Dobixano
 
 Gerador de numeros para mega da virada
 
